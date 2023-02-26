@@ -2,7 +2,8 @@
 - Before configuring Kubernetes, the Virtual Datacenter (vDC) must be configured. This can be viewed as a group of computers that can communicate with one another across a network. If you don't have a physical infrastructure built up or a cloud infrastructure set up, you can build up vDC on PROFITBRICKS for a hands-on approach.
 ## Prerequisite
 
- ### Installing Docker: On every Kubernetes instance, Docker is necessary. The steps to install Docker are listed below.
+ ### Installing Docker: 
+- On every Kubernetes instance, Docker is necessary. The steps to install Docker are listed below.
 
 #### Step 1: 
  Log on to the machine with the root user account.
