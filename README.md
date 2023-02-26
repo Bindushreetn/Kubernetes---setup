@@ -26,3 +26,30 @@ Update the API package image.
 
 ```$ sudo apt-get update```
 - You can begin the actual installation of the Docker engine once the aforementioned processes have been finished. .however, you should first make absolutely sure that the kernel version you are using is accurate.
+
+## Install Docker Engine
+
+Run the following commands to install the Docker engine.
+
+#### Step 1:
+Logon to the machine.
+
+#### Step 2: 
+Update the package index.
+
+```$ sudo apt-get update```
+
+#### Step 3: 
+Install the Docker Engine using the following command.
+
+```$ sudo apt-get install docker-engine```
+
+#### Step 4: 
+Start the Docker daemon.
+
+```$ sudo apt-get install docker-engine```
+
+#### Step 5: 
+To very if the Docker is installed, use the following command.
+
+```$ sudo docker run hello-world```
